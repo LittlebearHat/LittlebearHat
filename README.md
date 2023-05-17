@@ -24,12 +24,15 @@
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 
   <!-- 统计卡片 -->
-  <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LittlebearHat&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
   <!-- 项目语言效果 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittlebearHat&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittlebearHat&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   
   <!-- 奖杯效果 -->
+  
   <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=LittlebearHat" /> </div>
   
   </td></tr>
