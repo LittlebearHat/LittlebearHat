@@ -12,7 +12,8 @@
 
 ## 🤺 既来之，休走之！给你看看我的家伙 😤
 
-🏹 个人技术栈
+🏹 目前技术栈
+  
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -22,7 +23,14 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittlebearHat&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
+  <!-- 统计卡片 -->
+  <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LittlebearHat&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+  
+  <!-- 项目语言效果 -->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittlebearHat&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  
+  <!-- 奖杯效果 -->
+  <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=LittlebearHat" /> </div>
   
   </td></tr>
   </div>
