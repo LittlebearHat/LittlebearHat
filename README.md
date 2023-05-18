@@ -11,6 +11,8 @@
 <tr><td>
 
 ## 🤺 既来之，休走之！给你看看我的家伙 😤
+  
+![Metrics](https://metrics.lecoq.io/LittlebearHat?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FHong_Kong)
 
 🏹 目前技术栈
   
@@ -23,7 +25,6 @@
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 
-  ![Metrics](https://metrics.lecoq.io/LittlebearHat?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FHong_Kong)
   
   <!-- 统计卡片 -->
   
